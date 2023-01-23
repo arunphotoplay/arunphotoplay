@@ -1,12 +1,12 @@
 <img src="https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif" alt="">
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">React JS | frontend developer from india</h3>
+<h1 align="left">Hi 👋, I'm Arun</h1>
+<h3 align="left">React JS | frontend developer from india</h3>
 
-- 🌱 I’m currently learning **React JS**
+-  I’m currently learning **React JS**
 
-- 💬 Ask me about **react**
+-  Ask me about **react**
 
-- 📫 How to reach me **arunphotoplay@gmail.com**
+-  How to reach me **arunphotoplay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
