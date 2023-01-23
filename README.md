@@ -1,6 +1,6 @@
-<img src="https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif" alt="">
-<h1 align="left">Hi 👋, I'm Arun</h1>
-<h3 align="left">React JS | frontend developer from india</h3>
+<img src="https://media.discordapp.net/attachments/1057987809106989078/1067146100064124939/20230123_234419.png" alt="">
+<h2 align="left">Hi, I'm Arun</h2>
+<h3 align="left">Frontend Developer from India</h3>
 
 -  I’m currently learning **React JS**
 
