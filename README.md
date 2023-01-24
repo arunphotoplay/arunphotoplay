@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1057987809106989078/1067146100064124939/20230123_234419.png" alt="">
+<img src="https://media.discordapp.net/attachments/1057987809106989078/1067304291062272030/Group_1.png" alt="">
 <h2 align="left">Hi, I'm Arun</h2>
 <h3 align="left">Frontend Developer from India</h3>
 
